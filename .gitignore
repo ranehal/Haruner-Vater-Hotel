@@ -1,0 +1,16 @@
+node_modules
+backend/target
+frontend/dist
+.idea
+.vscode
+.DS_Store
+
+*.log
+
+backend/server.log
+
+backend/server_err.log
+
+backend/server_retry.log
+
+backend/server_retry_err.log
